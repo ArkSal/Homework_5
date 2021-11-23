@@ -1,0 +1,215 @@
+[
+  {
+    "title": "Gladiator",
+    "releaseDate": "2000-05-01",
+    "genre": "Historical Drama",
+    "director": {
+      "firstName": "Ridley",
+      "lastName": "Scott"
+    },
+    "listOfActors": [
+      {
+        "firstName": "Russel",
+        "lastName": "Crowe"
+      },
+      {
+        "firstName": "Joaquin",
+        "lastName": "Phoenix"
+      },
+      {
+        "firstName": "Oliver",
+        "lastName": "Reed"
+      },
+      {
+        "firstName": "Derek",
+        "lastName": "Jacob"
+      },
+      {
+        "firstName": "Richard",
+        "lastName": "Harris"
+      }
+    ]
+  },
+  {
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "releaseDate": "2003-06-28",
+    "genre": "Fantasy Swashbuckler",
+    "director": {
+      "firstName": "Gore",
+      "lastName": "Verbinski"
+    },
+    "listOfActors": [
+      {
+        "firstName": "Johnny",
+        "lastName": "Deep"
+      },
+      {
+        "firstName": "Geoffrey",
+        "lastName": "Rush"
+      },
+      {
+        "firstName": "Orlando",
+        "lastName": "Bloom"
+      },
+      {
+        "firstName": "Keira",
+        "lastName": "Knightley"
+      },
+      {
+        "firstName": "Jonathan",
+        "lastName": "Pryce"
+      }
+    ]
+  },
+  {
+    "title": "Pulp Fiction",
+    "releaseDate": "1994-05-21",
+    "genre": "Black Comedy Crime",
+    "director": {
+      "firstName": "Quentin",
+      "lastName": "Tarantino"
+    },
+    "listOfActors": [
+      {
+        "firstName": "John",
+        "lastName": "Travolta"
+      },
+      {
+        "firstName": "Samuel L.",
+        "lastName": "Jackson"
+      },
+      {
+        "firstName": "Uma",
+        "lastName": "Thurman"
+      },
+      {
+        "firstName": "Harvey",
+        "lastName": "Keitel"
+      },
+      {
+        "firstName": "Tim",
+        "lastName": "Roth"
+      }
+    ]
+  },
+  {
+    "title": "Hobbit - An Unexpected Jorney",
+    "releaseDate": "2012-12-14",
+    "genre": "Fantasy",
+    "director": {
+      "firstName": "Peter",
+      "lastName": "Jackson"
+    },
+    "listOfActors": [
+      {
+        "firstName": "Ian",
+        "lastName": "McKellen"
+      },
+      {
+        "firstName": "Martin",
+        "lastName": "Freeman"
+      },
+      {
+        "firstName": "Orlando",
+        "lastName": "Bloom"
+      },
+      {
+        "firstName": "Lee",
+        "lastName": "Pace"
+      },
+      {
+        "firstName": "Ken",
+        "lastName": "Scott"
+      }
+    ]
+  },
+  {
+    "title": "Hobbit - The Desolation of Smaug ",
+    "releaseDate": "2013-12-13",
+    "genre": "Fantasy",
+    "director": {
+      "firstName": "Peter",
+      "lastName": "Jackson"
+    },
+    "listOfActors": [
+      {
+        "firstName": "Ken",
+        "lastName": "Scott"
+      },
+      {
+        "firstName": "Andy",
+        "lastName": "Serkis"
+      },
+      {
+        "firstName": "Elijah",
+        "lastName": "Wood"
+      },
+      {
+        "firstName": "Lee",
+        "lastName": "Pace"
+      },
+      {
+        "firstName": "Orlando",
+        "lastName": "Bloom"
+      },
+      {
+        "firstName": "Ian",
+        "lastName": "McKellen"
+      }
+    ]
+  },
+  {
+    "title": "Poranek Kojota ",
+    "releaseDate": "2001-08-24",
+    "genre": "Comedy",
+    "director": {
+      "firstName": "Olaf",
+      "lastName": "Lubaszenko"
+    },
+    "listOfActors": [
+      {
+        "firstName": "Maciej",
+        "lastName": "Stuhr"
+      },
+      {
+        "firstName": "Karolina",
+        "lastName": "Rosinska"
+      },
+      {
+        "firstName": "Michal",
+        "lastName": "Milowicz"
+      },
+      {
+        "firstName": "Janusz",
+        "lastName": "Jozefowicz"
+      }
+    ]
+  },
+  {
+    "title": "Transformers",
+    "releaseDate": "2007-08-05",
+    "genre": "Science Fiction Action",
+    "director": {
+      "firstName": "Michael",
+      "lastName": "Bay"
+    },
+    "listOfActors": [
+      {
+        "firstName": "Peter",
+        "lastName": "Cullen"
+      },
+      {
+        "firstName": "Mark",
+        "lastName": "Ryan"
+      },
+      {
+        "firstName": "Grey",
+        "lastName": "Delisle"
+      },
+      {
+        "firstName": "Tom",
+        "lastName": "Kenny"
+      }
+    ]
+  }
+]
